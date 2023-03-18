@@ -4,18 +4,7 @@ sidebar_position: 1
 ---
 
 Spicetify is a multiplatform command-line tool to customize the official Spotify client.
-
-## Installation
-
-### Windows
-
-This is the installation method what we recommend for most users. It is the fastest and most reliable way to install Spicetify. It also includes the [**Spicetify Marketplace**](https://github.com/spicetify/spicetify-marketplace) that gives you access to a tab in Spotify's sidebar that allows you to search for and install _themes_, _extensions_, and _snippets_.
-
-#### Powershell (pre-built binary)
-
-```powershell
-iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
-iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.ps1 | iex
+lmkmlkmlkmkklmlkmlm/spicetify-marketplace/main/resources/install.ps1 | iex
 ```
 
 ### Linux and MacOS
@@ -25,12 +14,7 @@ iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main
 ```bash
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
-```
-
-<hr/>
-
-## Basic Usage
-
+```mlkmkmkmk
 After installing Spicetify and Spicetify's Marketplace, you can use it to customize your Spotify client using all the available **extensions** and **themes** found in the Marketplace.
 
 ### Updating
